@@ -81,11 +81,11 @@ section {
 h1 {
     background-color: greenyellow;
     font-style: oblique;
-    font-size: x-large;
+    font-size: xx-large;
     color: darkblue;
     border: solid 2px green;
     padding: 5px;
-    border-radius: 25px;
+    border-radius: 20px;
     margin-left: 200px;
     margin-top: 40px;
     margin-right: 1000px;
